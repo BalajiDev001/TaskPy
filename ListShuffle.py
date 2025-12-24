@@ -1,3 +1,5 @@
+#list shuffle
+
 li=[1,2,3,4,5,6]
 divide= len(li)//2
 print(divide)

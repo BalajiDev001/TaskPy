@@ -8,4 +8,5 @@ for acc in accounts:
     n=sum(acc)
     li.append((n))  
 print(max(li))
+# print(min(li))
   
